@@ -1,4 +1,4 @@
-# Hello there! Thank you for stopping by.
+# Hello there! Thanks for stopping by.
 ## About Me:
 - I am a student of **Memorial University of Newfoundland** since 2023.
 - I am experienced in **Python**, and **Bash (Shell Script)**.
