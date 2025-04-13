@@ -14,7 +14,7 @@
 - Personal Projects
   
 ## Contact:
-- [Personal Email (duggantaw@gmail.com)](mailto:duggantaw@gmail.com)
+- [Business Email (duggantaw@gmail.com)](mailto:duggantaw@gmail.com)
 - [School Email (tduggan@mun.ca)](mailto:tduggan@mun.ca)
 
 ## Awards:
