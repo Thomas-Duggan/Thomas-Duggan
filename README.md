@@ -9,9 +9,9 @@
 
 ## What Can Be Found Here:
 - 3D Models
-- Python Modules
-- School Projects
+- Python Modules / Scripts
 - Personal Projects
+- School Projects
   
 ## Contact:
 - [Business Email (duggantaw@gmail.com)](mailto:duggantaw@gmail.com)
