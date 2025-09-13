@@ -2,7 +2,7 @@
 ## About Me:
 - I am a student of **Memorial University of Newfoundland** since 2023.
 - I am experienced in **Python**, and **Bash (Unix Shell)**.
-- My 3D models are created with either **Onshape** or **Tinkercad** (currently learning **AutoCAD** as well).
+- My 3D models are created with either **Onshape** or **Tinkercad**.
 - I almost exclusively use **Linux** as my main OS, and primarily have experience with **Debian**-based distros.
 - Everything I create *(except when stated otherwise)* is free to use in anything you want, just credit me!
 - I use any pronouns, go wild.
