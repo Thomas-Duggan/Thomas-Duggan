@@ -1,16 +1,16 @@
 # Hello there! Thanks for stopping by.
 ## About Me:
 - I am a student of **Memorial University of Newfoundland** since 2023.
-- I am experienced in **Python**, **Bash (Unix Shell)**, and am learning **C++**.
+- I am experienced in **Python**, **Bash (Unix Shell)**, and **C++**.
 - For 3D models, I almost exclusively use **OnShape**, but I am also experienced in **TinkerCAD** and **VRoid Studio**.
-- I almost exclusively use **Linux** as my main OS, and primarily have experience with **Debian**-based distros.
+- I almost exclusively use **Linux** as my main OS, and primarily have experience with **Debian**-based distributions.
 - Everything I create *(except when stated otherwise)* is free to use in anything you want, just credit me!
 - I use any pronouns, go wild.
 
 ## What Can Be Found Here:
 - 3D Models
-- Python Scripts
-- Bash Scripts
+- Coding Projects
+- School Project Archives
   
 ## Contact:
 - [Business Email (duggantaw@gmail.com)](mailto:duggantaw@gmail.com)
