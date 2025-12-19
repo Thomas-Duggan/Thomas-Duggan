@@ -3,7 +3,7 @@
 - I am a student of **Memorial University of Newfoundland** since 2023.
 - I am experienced in **Python**, **Bash (Unix Shell)**, and **C++**.
 - For 3D models, I almost exclusively use **OnShape**, but I am also experienced in **TinkerCAD** and **VRoid Studio**, with plans to learn **AutoCAD** and **Blender**.
-- I almost exclusively use **Linux** as my main OS, and primarily have experience with **Debian**-based distributions.
+- I almost exclusively use **Linux** as my main OS, and primarily have experience with **Debian**-based distributions such as **Ubuntu** and **Linux Mint**.
 - Everything I create *(except when stated otherwise)* is free to use in anything you want, just credit me!
 - I use any pronouns, go wild.
 
