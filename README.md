@@ -17,9 +17,9 @@ Memorial University - Electrical Engineering (2024 - 2029)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" width="25" height="20"/> Blender - (Introductory level)
 
 ## Linux
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" width="25" height="20"/> Linux Mint - (Independent use)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" width="25" height="20"/> Ubuntu - (Independent use)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/2048px-Arch_Linux_%22Crystal%22_icon.svg.png" width="25" height="20"/> Arch - (Introductory level)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" width="25" height="25"/> Linux Mint - (Independent use)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" width="25" height="25"/> Ubuntu - (Independent use)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/2048px-Arch_Linux_%22Crystal%22_icon.svg.png" width="25" height="25"/> Arch - (Introductory level)
 
 ## Licensing
 All projects and licensed under Creative Commons ShareAlike 4.0, unless otherwise specified: 
