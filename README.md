@@ -22,7 +22,7 @@ Memorial University - Electrical Engineering (2024 - 2029)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/2048px-Arch_Linux_%22Crystal%22_icon.svg.png" width="25" height="25"/> Arch (Introductory level)
 
 ## Licensing
-All projects and licensed under Creative Commons ShareAlike 4.0, unless otherwise specified: 
+All projects are licensed under Creative Commons ShareAlike 4.0, unless otherwise specified:
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
   
