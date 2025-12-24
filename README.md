@@ -4,7 +4,7 @@
 Memorial University - Electrical Engineering (2024 - 2029)
 
 ## Coding
-- <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="20" height="20"/> Python - (Professional and independent use)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?20250701090410" width="20" height="20"/> Python - (Professional and independent use)
 - C++ - (Professional and independent use)
 - Lua - (Independent Use)
 - Unix Bash - (Independent Use)
