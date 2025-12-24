@@ -27,9 +27,9 @@ All projects are licensed under Creative Commons ShareAlike 4.0, unless otherwis
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
   
 ## Contact
-- [Business Email (duggantaw@gmail.com)](mailto:duggantaw@gmail.com)
-- [School Email (tduggan@mun.ca)](mailto:tduggan@mun.ca)
-- [LinkedIn (duggantaw)](https://www.linkedin.com/in/duggantaw)
+- [duggantaw@gmail.com](mailto:duggantaw@gmail.com)
+- [tduggan@mun.ca](mailto:tduggan@mun.ca)
+- [LinkedIn](https://www.linkedin.com/in/duggantaw)
 
 ## Certifications and Awards
 - [Certificate of Completion - Onshape Fundamentals](https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/24d97c6d-5b19-429d-8395-848ac9573372-thomas-duggan-bf95090a-dd00-4d45-8901-9bc3cefdbe92-certificate.pdf)
