@@ -4,7 +4,7 @@
 Memorial University - Electrical Engineering (2024 - 2029)
 
 ## Coding
-- Python - (Professional and independent use)
+- <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="40" height="40"/> Python - (Professional and independent use)
 - C++ - (Professional and independent use)
 - Lua - (Independent Use)
 - Unix Bash - (Independent Use)
@@ -22,7 +22,7 @@ Memorial University - Electrical Engineering (2024 - 2029)
 - Arch - (Introductory level)
 
 ## Licensing
-All projects and licensced under Creative Commons ShareAlike 4.0, unless otherwise specified: 
+All projects and licensed under Creative Commons ShareAlike 4.0, unless otherwise specified: 
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
   
