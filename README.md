@@ -5,7 +5,7 @@ Memorial University - Electrical Engineering (2024 - 2029)
 
 ## Coding
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?20250701090410" width="20" height="20"/> Python - (Professional and independent use)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" width="15" height="20"/> C++ - (Professional and independent use)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" width="20" height="25"/> C++ - (Professional and independent use)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="20" height="20"/> Lua - (Independent Use)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="20" height="20"/> Unix Bash - (Independent Use)
 
