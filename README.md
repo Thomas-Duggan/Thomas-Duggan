@@ -10,16 +10,16 @@ Memorial University - Electrical Engineering (2024 - 2029)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="25" height="25"/> Unix Bash - (Independent Use)
 
 ## 3D Modeling
-- Onshape - (Professional and independent use)
-- TinkerCAD - (Professional and independent use)
-- VRoid Studio - (Independent use)
-- AutoCAD - (Introductory level)
-- Blender - (Introductory level)
+- <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" width="25" height="25"/> Onshape - (Professional and independent use)
+- <img src="https://www.lacrosseschools.org/northwoods-international/wp-content/uploads/sites/14/2020/02/logo-tinkercad-256.png" width="25" height="25"/> TinkerCAD - (Professional and independent use)
+- <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1486350/7e8e6b042ba15dcd5238bda279d8c9c02ceb53ce.ico" width="25" height="25"/> VRoid Studio - (Independent use)
+- <img src="https://images.seeklogo.com/logo-png/48/2/autocad-logo-png_seeklogo-482394.png" width="25" height="25"/> AutoCAD - (Introductory level)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" width="25" height="20"/> Blender - (Introductory level)
 
 ## Linux
-- Linux Mint - (Independent use)
-- Ubuntu - (Independent use)
-- Arch - (Introductory level)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" width="25" height="20"/> Linux Mint - (Independent use)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/2048px-UbuntuCoF.svg.png" width="25" height="20"/> Ubuntu - (Independent use)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/2048px-Arch_Linux_%22Crystal%22_icon.svg.png" width="25" height="20"/> Arch - (Introductory level)
 
 ## Licensing
 All projects and licensed under Creative Commons ShareAlike 4.0, unless otherwise specified: 
