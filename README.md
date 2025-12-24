@@ -4,22 +4,22 @@
 Memorial University - Electrical Engineering (2024 - 2029)
 
 ## Coding
-- Python (Professional and independent use)
-- C++ (Professional and independent use)
-- Lua (Independent Use)
+- Python    (Professional and independent use)
+- C++       (Professional and independent use)
+- Lua       (Independent Use)
 - Unix Bash (Independent Use)
 
 ## 3D Modeling
-- Onshape (Professional and independent use)
-- TinkerCAD (Professional and independent use)
+- Onshape      (Professional and independent use)
+- TinkerCAD    (Professional and independent use)
 - VRoid Studio (Independent use)
-- AutoCAD (Introductory level)
-- Blender (Introductory level)
+- AutoCAD      (Introductory level)
+- Blender      (Introductory level)
 
 ## Linux
 - Linux Mint (Independent use)
-- Ubuntu (Independent use)
-- Arch (Introductory level)
+- Ubuntu     (Independent use)
+- Arch       (Introductory level)
 
 ## Licensing
 All projects and licensced under Creative Commons ShareAlike 4.0, unless otherwise specified: 
