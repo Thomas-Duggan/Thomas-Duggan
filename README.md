@@ -1,4 +1,5 @@
-# Hello there! Thanks for stopping by.
+# ALL PROJECTS MOVED:
+https://gitlab.com/users/duggantaw
 
 ## Education
 Memorial University - Electrical Engineering (2024 - 2029)
