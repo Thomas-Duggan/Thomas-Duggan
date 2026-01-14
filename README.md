@@ -1,4 +1,4 @@
-## ALL PROJECTS MOVED:
+## ALL PROJECTS MOVED TO GITLAB:
 https://gitlab.com/users/duggantaw
 
 ## Hello there! Thanks for stopping by.
